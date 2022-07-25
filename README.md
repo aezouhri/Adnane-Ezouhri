@@ -1,6 +1,6 @@
 <h1> Hello there! I'm <a style"display: inline;" href="https://aezouhri.github.io/" >Adnane Ezouhri</a>  :raised_hands: 
 
-</a> <img
+<a href="https://www.linkedin.com/in/adnane-ezouhri/"> <img height="40px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/icons8-gmail-logo.gif"> </a>
 
 </h1>
 
