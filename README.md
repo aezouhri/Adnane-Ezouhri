@@ -1,11 +1,9 @@
-<h1> Hello there! I'm <a style"display: inline;" href="https://aezouhri.github.io/" >Adnane Ezouhri</a>  :raised_hands: 
-
-<a href="https://www.linkedin.com/in/adnane-ezouhri/"> <img height="40px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/icons8-gmail-logo.gif"> </a>
-
+<h1> Hello there! I'm <a style="display: inline;" href="https://aezouhri.github.io/" >Adnane Ezouhri :raised_hands: </a>  
+<a style="display: inline;" href="mailto:ezouhriadnane@outlook.com"> <img align="right" height="35px" width="35px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/icons8-gmail-logo.gif"> </a>
+<a style="display: inline;" href="https://www.linkedin.com/in/adnane-ezouhri/"> <img align="right" height="35px" width="35px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/icons8-linkedin.gif"> </a>
 </h1>
 
-
- <!--- ![Visits](https://komarev.com/ghpvc/?username=aezouhri&label=PROFILE+VIEWS&color=orange) --->
+![Visits](https://komarev.com/ghpvc/?username=aezouhri&label=PROFILE+VIEWS&color=orange)
 
 <br/>
 
