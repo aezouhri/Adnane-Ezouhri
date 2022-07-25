@@ -2,6 +2,9 @@
 
 </h1>
 
+
+ <!--- ![Visits](https://komarev.com/ghpvc/?username=aezouhri&label=PROFILE+VIEWS&color=orange) --->
+
 <br/>
 
 ## I am an Electrical & Computer Engineer at The University of Iowa 
@@ -25,5 +28,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-Code?style=for-the-badge&logo=raspberrypi&logoColor=black&color=A22846)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
+
 
 
