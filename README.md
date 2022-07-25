@@ -7,6 +7,8 @@
 
 <br/>
 
+<img align="right" alt="GIF" height="290px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/daftpunktocat-guy.gif" />
+
 ## I am an Electrical & Computer Engineer at The University of Iowa 
 - 🎓 Graduating in May 2023 with a Bachelor in Electrical & Computer Engineering with a minor in Computer Science and in May 2024 with a Master in Electrical & Computer Engineering.
 - ⭐ Interested in Embedded Software Engineering and Problem Solving.
