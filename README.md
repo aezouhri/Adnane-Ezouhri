@@ -29,8 +29,11 @@
 ### Relevant coursework
 - [Algorithm](https://myui.uiowa.edu/my-ui/courses/details.page?ci=158661&id=974795) 
 - [Internet of Things](https://myui.uiowa.edu/my-ui/courses/details.page?ci=170588&id=955958)
+- [Software Design](https://myui.uiowa.edu/my-ui/courses/details.page?ci=148323&id=961183)
 - [Embedded Systems](https://myui.uiowa.edu/my-ui/courses/details.page?ci=152501&id=953780)
 - [Software Security](https://myui.uiowa.edu/my-ui/courses/details.page?ci=148347&id=975322)
+- [Computer Architecture and Organization](https://myui.uiowa.edu/my-ui/courses/details.page?ci=149932&id=953373)
+
 
 ---
 
