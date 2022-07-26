@@ -14,9 +14,17 @@
 - 🧢 In my free time I love to go on adventures 🎒, play volley-ball 🏐 and listen to music 🎶
 
 ### Recent Projects
-- [Bluetooth Voice Controlled Car](https://github.com/aezouhri/Tesla-Model-DIY)
-- [Covid Tracker GUI Application](https://github.com/aezouhri/Covid19_tracker_app)
-- [Morse Translator GUI Application](https://github.com/aezouhri/Morse_Code_translator)
+<ul>
+  <li> 
+    <a href="https://github.com/aezouhri/Tesla-Model-DIY" target="_blank">Bluetooth Voice Controlled Car</a>
+  </li>
+    <li> 
+    <a href="https://github.com/aezouhri/Covid19_tracker_app" target="_blank">Covid Tracker GUI Application</a>
+  </li>
+    <li> 
+    <a href="https://github.com/aezouhri/Morse_Code_translator" target="_blank">Morse Translator GUI Application</a>
+  </li>
+</ul>
 
 ### Relevant coursework
 - [Algorithm](https://myui.uiowa.edu/my-ui/courses/details.page?ci=158661&id=974795) 
