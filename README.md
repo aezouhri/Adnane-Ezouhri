@@ -9,7 +9,7 @@
 <img align="right" alt="DaftPunk_Github_GIF" height="290px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/daftpunktocat-guy.gif" target="_blank"/>
 
 ## I am an Electrical & Computer Engineer at The University of Iowa 
-- 🎓 Graduating in May 2023 with a Bachelor in Electrical & Computer Engineering with a minor in Computer Science and in May 2024 with a Master in Electrical & Computer Engineering.
+- 🎓 Graduating in May 2023 with a B.S.E in Electrical & Computer Engineering with a minor in Computer Science and in May 2024 with a M.S in Electrical & Computer Engineering.
 - ⭐ Interested in Embedded Software Engineering and Problem Solving.
 - 🧢 In my free time I love to go on adventures 🎒, play volley-ball 🏐 and listen to music 🎶
 
