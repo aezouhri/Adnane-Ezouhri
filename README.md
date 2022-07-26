@@ -1,12 +1,12 @@
-<h1> Hello there! I'm <a style="display: inline;" href="https://aezouhri.github.io/" >Adnane Ezouhri :raised_hands: </a>  
-<a style="display: inline;" href="mailto:ezouhriadnane@outlook.com"> <img align="right" height="35px" width="35px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/icons8-gmail-logo.gif"> </a>
-<a style="display: inline;" href="https://www.linkedin.com/in/adnane-ezouhri/"> <img align="right" height="35px" width="35px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/icons8-linkedin.gif"> </a>
+<h1> Hello there! I'm <a style="display: inline;" href="https://aezouhri.github.io/" target="_blank" >Adnane Ezouhri :raised_hands: </a>  
+<a style="display: inline;" href="mailto:ezouhriadnane@outlook.com"> <img align="right" height="35px" width="35px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/icons8-gmail-logo.gif" target="_blank"> </a>
+<a style="display: inline;" href="https://www.linkedin.com/in/adnane-ezouhri/"> <img align="right" height="35px" width="35px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/icons8-linkedin.gif" target="_blank"> </a>
 </h1>
 
 ![Visits](https://komarev.com/ghpvc/?username=aezouhri&label=PROFILE+VIEWS&color=orange)
 <br/>
 
-<img align="right" alt="DaftPunk_Github_GIF" height="290px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/daftpunktocat-guy.gif"/>
+<img align="right" alt="DaftPunk_Github_GIF" height="290px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/daftpunktocat-guy.gif" target="_blank"/>
 
 ## I am an Electrical & Computer Engineer at The University of Iowa 
 - 🎓 Graduating in May 2023 with a Bachelor in Electrical & Computer Engineering with a minor in Computer Science and in May 2024 with a Master in Electrical & Computer Engineering.
