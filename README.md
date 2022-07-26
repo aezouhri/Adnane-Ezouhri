@@ -4,10 +4,9 @@
 </h1>
 
 ![Visits](https://komarev.com/ghpvc/?username=aezouhri&label=PROFILE+VIEWS&color=orange)
-
 <br/>
 
-<img align="right" alt="GIF" height="290px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/daftpunktocat-guy.gif" />
+<img align="right" alt="DaftPunk_Github_GIF" height="290px" src="https://github.com/aezouhri/aezouhri/blob/main/assets/daftpunktocat-guy.gif"/>
 
 ## I am an Electrical & Computer Engineer at The University of Iowa 
 - 🎓 Graduating in May 2023 with a Bachelor in Electrical & Computer Engineering with a minor in Computer Science and in May 2024 with a Master in Electrical & Computer Engineering.
@@ -18,6 +17,12 @@
 - [Bluetooth Voice Controlled Car](https://github.com/aezouhri/Tesla-Model-DIY)
 - [Covid Tracker GUI Application](https://github.com/aezouhri/Covid19_tracker_app)
 - [Morse Translator GUI Application](https://github.com/aezouhri/Morse_Code_translator)
+
+### Relevant coursework
+- [Algorithm](https://myui.uiowa.edu/my-ui/courses/details.page?ci=158661&id=974795) 
+- [Internet of Things](https://myui.uiowa.edu/my-ui/courses/details.page?ci=170588&id=955958)
+- [Embedded Systems](https://myui.uiowa.edu/my-ui/courses/details.page?ci=152501&id=953780)
+- [Software Security](https://myui.uiowa.edu/my-ui/courses/details.page?ci=148347&id=975322)
 
 ---
 
